@@ -19,7 +19,10 @@
   },
   "homepage": "https://github.com/GiorgioGeorge/friendFinder#readme",
   "dependencies": {
+    "all": "0.0.0",
     "enquire": "0.0.2",
+    "export": "^0.1.337",
+    "exports": "0.0.1",
     "express": "^4.17.1",
     "path": "^0.12.7",
     "require": "^2.4.20"
